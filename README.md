@@ -48,7 +48,7 @@
 
 > C++ 를 이용한 2D 오델로 AI 구현 , DirectX12 를 이용한 3D 오델로 구현
 
-[프로젝트 바로가기]https://github.com/hoya1215/Cpp-AI-Othello-Game/tree/master
+[프로젝트 바로가기](https://github.com/hoya1215/Cpp-AI-Othello-Game/tree/master)
 
 <br/>
 

@@ -57,7 +57,7 @@
 
 > DirectX12 를 이용한 구조 설계 연습과 다양한 렌더링 및 최적화 기술 적용
 
-[2. DirectX12 엔진 포트폴리오.pdf](https://github.com/user-attachments/files/18265842/2.DirectX12.pdf)
+[프로젝트 깃허브 바로가기](https://github.com/hoya1215/DirectX12-Engine)
 
 <br/>
 

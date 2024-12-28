@@ -65,5 +65,5 @@
 
 > DirectX11 을 이용한 그래픽스 렌더링 기술 / 최적화 연습
 
-[1. DirectX11 포트폴리오.pdf](https://github.com/user-attachments/files/18265848/1.DirectX11.pdf)
+[프로젝트 깃허브 바로가기](https://github.com/hoya1215/DirectX11)
 

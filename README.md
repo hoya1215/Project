@@ -86,7 +86,7 @@
 > File 및 Folder 비교 분석, 수정, 저장 프로그램
 
 
-[프로젝트 설명][DiffTool.pdf](https://github.com/user-attachments/files/21037325/DiffTool.pdf)
+[프로젝트 설명](https://github.com/user-attachments/files/21037325/DiffTool.pdf)
 
 
 [프로젝트 깃허브 바로가기](https://github.com/hoya1215/DiffTool.git)
